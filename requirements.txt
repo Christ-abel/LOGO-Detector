@@ -1,7 +1,4 @@
-Streamlit 
-Os
-PIL
-Ultralytics
-cv2
-Numpy
-Tempfile
+streamlit>=1.47.1
+opencv-python
+pillow
+numpy
